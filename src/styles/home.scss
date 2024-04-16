@@ -104,9 +104,10 @@
       }
 
       > img {
-        width: 40vmax;
+        width: 35vmax;
         object-fit: contain;
-        height: 40vmax;
+         border-radius: 50%;
+        height: 350vmax;
       }
     }
   }
