@@ -1,6 +1,14 @@
 
 {
   "projects": [
+     {
+      "date": "30/03/2024",
+      "title": "Movie APP",
+      "description": "This project is created with ReactJS, design using TailwindCSS and Powered by The MovieDb.",
+      "url": "https://movie-app-ecru-pi.vercel.app",
+      "imgSrc": "https://th.bing.com/th/id/OIP.7Fi2Jg5Z2PPOofevndg3_AAAAA?rs=1&pid=ImgDetMain"
+    },
+    
     {
       "date": "08/03/2024",
       "title": "YOUTUBE CLONE",
