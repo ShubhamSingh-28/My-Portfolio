@@ -2,11 +2,18 @@
 {
   "projects": [
     {
-      "date": "3/04/2024",
+      "date": "1/05/2024",
       "title": "Twitter",
       "description": "This project is a clone of twitter app .",
-      "url": "https://chat-app-blue-chi.vercel.app/",
+      "url": "https://x-clone-ruby-phi.vercel.app/",
       "imgSrc": "https://store-images.s-microsoft.com/image/apps.60673.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.5d82b7eb-9734-4b51-b65d-a0383348ab1b"
+    },
+    {
+      "date": "17/04/2024",
+      "title": "Shopsy",
+      "description": "Fullstack eccommerce website built with nextjs.",
+      "url": "https://next-ecommerce-psi-ebon.vercel.app/",
+      "imgSrc": "https://st.depositphotos.com/1001877/3814/i/450/depositphotos_38143799-stock-photo-e-commerce-shopping-cart-with.jpg"
     },
     {
       "date": "3/04/2024",
@@ -37,28 +44,6 @@
       "description": "Experience real-time weather updates and accurate forecasts. This app is intigrated by openWeather Api.",
       "url": "https://weather-app-eight-blue-43.vercel.app",
       "imgSrc": "https://img.freepik.com/free-vector/mobile-weather-application_1284-4093.jpg?w=740&t=st=1711854934~exp=1711855534~hmac=e06fabd2c921da456a01e98bc583eb91ee9de9fbfc9319dfbe67925a047e14eb"
-    },
-    {
-      "date": "19/02/2024",
-      "title": "TODO  LIST",
-      "description": "Streamline your tasks with our Todo List, and manage your tasks effortlessly with seamless state management.",
-      "url": "https://todo-project-shubham-singh-s-projects.vercel.app",
-      "imgSrc": "https://static.vecteezy.com/system/resources/previews/026/162/009/original/to-do-list-icon-with-hand-drawn-text-checklist-task-list-illustration-in-flat-style-on-white-background-vector.jpg"
-    },
-
-    {
-      "date": "01/02/2024",
-      "title": "PASSWORD GENERATOR",
-      "description": "Experience seamless password generation with our innovative tool and ensures intuitive user interaction and heightened security",
-      "url": "https://password-generator-shubham-singh-s-projects.vercel.app",
-      "imgSrc": "https://th.bing.com/th/id/OIP.Fq3QhqfWzXkwVFLu1DESrwHaEH?w=1024&h=570&rs=1&pid=ImgDetMain"
-    },
-    {
-      "date": "20/3/2024",
-      "title": "PORTFOLIO",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "/",
-      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
     }
   ]
 }
