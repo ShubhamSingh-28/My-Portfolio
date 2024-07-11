@@ -36,14 +36,7 @@
       "description": "This project is created with ReactJS, design using TailwindCSS and Powered by Google Cloud API technology.",
       "url": "https://youtube-shubham-singh-s-projects.vercel.app",
       "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
-    },
-    
-    {
-      "date": "04/02/2024",
-      "title": "WEATHER APP",
-      "description": "Experience real-time weather updates and accurate forecasts. This app is intigrated by openWeather Api.",
-      "url": "https://weather-app-eight-blue-43.vercel.app",
-      "imgSrc": "https://img.freepik.com/free-vector/mobile-weather-application_1284-4093.jpg?w=740&t=st=1711854934~exp=1711855534~hmac=e06fabd2c921da456a01e98bc583eb91ee9de9fbfc9319dfbe67925a047e14eb"
     }
+
   ]
 }
