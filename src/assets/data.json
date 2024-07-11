@@ -1,6 +1,20 @@
 
 {
   "projects": [
+    {
+      "date": "3/04/2024",
+      "title": "Twitter",
+      "description": "This project is a clone of twitter app .",
+      "url": "https://chat-app-blue-chi.vercel.app/",
+      "imgSrc": "https://store-images.s-microsoft.com/image/apps.60673.9007199266244427.4d45042b-d7a5-4a83-be66-97779553b24d.5d82b7eb-9734-4b51-b65d-a0383348ab1b"
+    },
+    {
+      "date": "3/04/2024",
+      "title": "Chat APP",
+      "description": "This fullstack chatapp let u talk anyone.",
+      "url": "https://chat-app-blue-chi.vercel.app/",
+      "imgSrc": "https://static.vecteezy.com/system/resources/previews/000/561/500/original/chat-app-logo-icon-vector.jpg"
+    },
      {
       "date": "30/03/2024",
       "title": "Movie APP",
