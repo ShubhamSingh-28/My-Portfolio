@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
-import me from "../assets/IMG20240406163455.jpg";
+import me from "../assets/images.png";
 
 const Home = () => {
   const projectCount = useRef(null);
